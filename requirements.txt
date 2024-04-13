@@ -6,3 +6,6 @@ langchain.text_splitter
 langchain.vectorstores
 angchain.chains.question_answering
 langchain.callbacks
+langchain.vectorstores 
+langchain.callbacks 
+transformers 
