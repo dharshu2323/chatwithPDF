@@ -1,0 +1,3 @@
+txtai
+PyPDF2
+streamlit
