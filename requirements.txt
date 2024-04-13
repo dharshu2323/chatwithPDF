@@ -1,11 +1,4 @@
-txtai
-PyPDF2
-streamlit
-dotenv 
-langchain.text_splitter
-langchain.vectorstores
-angchain.chains.question_answering
-langchain.callbacks
-langchain.vectorstores 
-langchain.callbacks 
-transformers 
+streamlit==0.85.1
+PyPDF2==1.26.0
+langchain==0.0.6  # Assuming this is a package you're using
+transformers==4.13.3
